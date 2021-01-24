@@ -1,4 +1,3 @@
-FROM centos:latest
+FROM centos
 MAINTAINER Goran Donev <gokidonev@gmail.com>
 ADD ./vasko.html /root/
-
