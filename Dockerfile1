@@ -1,4 +1,0 @@
-FROM centos:latest
-MAINTAINER Goran Donev <gokidonev@gmail.com>
-CP ./vasko.html /root/
-
